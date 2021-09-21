@@ -1228,7 +1228,7 @@ td.rc-table-cell-fix-right::after {
 .chat-container .chat-text {
   display: none
 }
-.chat-container svg {
+.chat-container img {
   width: 20px;
   height: 20px;
 }
@@ -2191,6 +2191,60 @@ td.rc-table-cell-fix-right::after {
   text-align: left;
   padding: 12px;
 }
+.css-4qtnb6 .css-1icty3a i {
+  width: 22px;
+  height: 22px;
+}
+.css-4qtnb6 .icon-telegram {
+  background: url(../images/common/icon-telegram-02.png); 
+}
+.css-4qtnb6 .icon-telegram:hover {
+  background: url(../images/common/icon-telegram-01.png);
+}
+.css-4qtnb6 .icon-facebook {
+  background: url(../images/common/icon-facebook-02.png); 
+}
+.css-4qtnb6 .icon-facebook:hover {
+  background: url(../images/common/icon-facebook-01.png);
+}
+.css-4qtnb6 .icon-twitter {
+  background: url(../images/common/icon-twitter-02.png); 
+}
+.css-4qtnb6 .icon-twitter:hover {
+  background: url(../images/common/icon-twitter-01.png);
+}
+.css-4qtnb6 .icon-reddit {
+  background: url(../images/common/icon-reddit-02.png); 
+}
+.css-4qtnb6 .icon-reddit:hover {
+  background: url(../images/common/icon-reddit-01.png);
+}
+.css-4qtnb6 .icon-instagram {
+  background: url(../images/common/icon-instagram-02.png); 
+}
+.css-4qtnb6 .icon-instagram:hover {
+  background: url(../images/common/icon-instagram-01.png);
+}
+.css-4qtnb6 .icon-coinmarketcap {
+  background: url(../images/common/icon-coinmarketcap-02.png); 
+}
+.css-4qtnb6 .icon-coinmarketcap:hover {
+  background: url(../images/common/icon-coinmarketcap-01.png);
+}
+.css-4qtnb6 .icon-vk {
+  background: url(../images/common/icon-vk-02.png); 
+}
+.css-4qtnb6 .icon-vk:hover {
+  background: url(../images/common/icon-vk-01.png);
+}
+.css-4qtnb6 .icon-youtube {
+  background: url(../images/common/icon-youtube-02.png); 
+}
+.css-4qtnb6 .icon-youtube:hover {
+  background: url(../images/common/icon-youtube-01.png);
+}
+
+
 /* common about community */
 
 /* 1vp9kis */
@@ -2412,3 +2466,4 @@ td.rc-table-cell-fix-right::after {
   padding-top: 16px;
   padding-bottom: 16px;
 }
+

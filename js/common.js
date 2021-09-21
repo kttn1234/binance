@@ -5,10 +5,10 @@ $(document).ready(function () {
     $(this).next().toggleClass('css-1yk9mh2');
     $(this).next().toggleClass('css-zmxxr7');
     if($(this).parent().hasClass('css-3prz9j-active')) {
-      $( this ).find('svg').replaceWith( '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" class="css-1l0obfq css-1l0obfq-minus"><path fill="currentColor" d="M4 11h16v2H4z"></path></svg>');
+      $( this ).find('img').replaceWith( '<img src="./images/common/icon-minus.png" alt="minus" class="css-1l0obfq">');
     }
     else {
-      $( this ).find('svg').replaceWith( '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" class="css-1l0obfq"><path d="M4 11h16v2H4v-2z" fill="currentColor"></path><path d="M13 4v16h-2V4h2z" fill="currentColor"></path></svg>');
+      $( this ).find('img').replaceWith( '<img src="./images/common/icon-plus.png" alt="plus" class="css-1l0obfq">');
     }
   })
   $('.css-1ghy256').click(function(){
@@ -32,5 +32,5 @@ $(document).ready(function () {
     $('.arabic-select-lang-box').toggle();
     $('.arabic-arrow').toggle();
   })
-  
+
 });
