@@ -12,12 +12,10 @@
   bottom: 100px;
 }
 
-@media screen and (max-height: 767px) {
-  .css-15xl9z3 {
-    position: static;
-    background: #0b0e11;
-    height: 230px;
-  }
+.css-15xl9z3 {
+  position: static;
+  background: #0b0e11;
+  height: 230px;
 }
 /* 14v7lop */
 .css-14v7lop {
@@ -42,12 +40,12 @@
   height: 230px;
   text-align: center;
 }
-@media only screen and (min-width: 768px) and (max-width: 1023px)  {
+@media only screen and (min-width: 767px) and (max-width: 1023px)  {
   .css-14v7lop {
     padding: 0 20px;
   }
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 766px) {
   .css-14v7lop {
     padding: 44px 10px;
     align-items: baseline;
@@ -68,7 +66,7 @@
 .css-1qhq0m9 {
   color: #fff;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 766px) {
   .css-1qhq0m9 {
     color: #fff;
     padding: 0 10px;
@@ -86,12 +84,12 @@
   font-size: 64px;
   margin-bottom: 24px;
 }
-@media only screen and (min-width: 768px) and (max-width: 1023px)  {
+@media only screen and (min-width: 767px) and (max-width: 1023px)  {
   .css-1c0ifxu {
     font-size: 40px;
   }
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 766px) {
   .css-1c0ifxu {
     font-size: 36px;
     margin-bottom: 10px;
@@ -119,7 +117,7 @@
   font-size: 20px;
   line-height: 28px;
 }
-@media only screen and (min-width: 768px) and (max-width: 1023px)  {
+@media only screen and (min-width: 767px) and (max-width: 1023px)  {
   .css-1ds83c4 {
     font-size: 18px;
   }
@@ -138,7 +136,7 @@
   padding-bottom: 100px;
   background-color: #181A20;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 766px) {
   .css-19bpuaj {
     padding-bottom: 0;
   }
@@ -168,7 +166,7 @@
   text-align: center;
   color: #FFFFFF;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 766px) {
   .css-ufqvma {
     padding-top: 0;
     padding-bottom: 0;
@@ -217,7 +215,7 @@
   -o-transform: rotateX(180deg);
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 766px) {
   .css-wx16hu-scroll {
     overflow: scroll;
   }
@@ -970,7 +968,7 @@
   display: -ms-flexbox;
   display: flex;
 }
-@media screen and (max-width:767px) {
+@media screen and (max-width:766px) {
   .css-4cffwv {
     align-items: center;
   }
@@ -982,7 +980,7 @@
   min-width: 0;
   float: left;
 }
-@media screen and (max-width:767px) {
+@media screen and (max-width:766px) {
   .css-tlz0yk {
     width: 60%;
   }
@@ -1007,7 +1005,7 @@
   width: 580px;
   color: #FFFFFF;
 }
-@media screen and (max-width:767px) {
+@media screen and (max-width:766px) {
   .css-1cg8j2q {
     width: 100%;
   }
@@ -1085,7 +1083,7 @@
   border: solid 1px;
   border-color: #707A8A;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 766px) {
   .css-12v7s5l {
     padding-bottom: 10px;
     margin-bottom: 20px;
@@ -1127,7 +1125,7 @@
   width: 380px;
   margin-left: 116px;
 }
-@media screen and (max-width:767px) {
+@media screen and (max-width:766px) {
   .css-1wy0apa {
     margin-left: 10px;
     width: 40%;
@@ -1159,7 +1157,7 @@
   width: 400px;
   margin-left: 116px;
 }
-@media screen and (max-width:767px) {
+@media screen and (max-width:766px) {
   .css-1xh9bxx {
     margin-left: 10px;
     width: 40%;
@@ -1176,7 +1174,7 @@
   height: 400px;
   margin-right: 116px;
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 766px) {
   .css-1s21bv2 {
     margin-right: 10px;
     width: 40%;
@@ -1194,7 +1192,7 @@
   padding-top: 90px;
   padding-bottom: 100px;
 }
-@media screen and (max-width:767px) {
+@media screen and (max-width:766px) {
   .css-jsl2q2 {
     height: 600px;
     align-items: center;
@@ -1257,7 +1255,7 @@
     width: 70%;
   }
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 766px) {
   .css-grsh0f svg {
     width: 20%;
     margin-right: 10px;
@@ -1318,7 +1316,7 @@
 .css-9fc1u9 .active {
   color: #F0B90B;
 }
-@media only screen and (min-width: 640px) and (max-width: 767px)  {
+@media only screen and (min-width: 640px) and (max-width: 766px)  {
   .css-9fc1u9 {
     font-size: 13px;
   }
@@ -1365,4 +1363,135 @@
   justify-content: center;
   -webkit-box-align: center;
   align-items: center;
+}
+
+
+.css-16x2o27 {
+  box-sizing: border-box;
+  margin: 0px;
+  min-width: 0px;
+  display: flex;
+  transform: rotateX(180deg);
+  position: absolute;
+  left: 310px;
+  top: 610px;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  border: 1px solid transparent;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.css-vurnku.active > div:first-child {
+  border: 1px solid #FCD535;
+}
+.css-1oq90k7 {
+  width: 60px;
+  height: 60px;
+  display: inline-block;
+}
+.ecosystem-01 {
+  background: url(./../images/about-us/icon-ecosystem-01.png);
+  background-size: 60px;
+}
+.css-vurnku.active .ecosystem-01 {
+  background: url(./../images/about-us/icon-ecosystem-active-01.png);
+  background-size: 60px;
+}
+.ecosystem-02 {
+  background: url(./../images/about-us/icon-ecosystem-02.png);
+  background-size: 60px;
+}
+.css-vurnku.active .ecosystem-02 {
+  background: url(./../images/about-us/icon-ecosystem-active-02.png);
+  background-size: 60px;
+}
+.ecosystem-03 {
+  background: url(./../images/about-us/icon-ecosystem-03.png);
+  background-size: 60px;
+}
+.css-vurnku.active .ecosystem-03 {
+  background: url(./../images/about-us/icon-ecosystem-active-03.png);
+  background-size: 60px;
+}
+.ecosystem-04 {
+  background: url(./../images/about-us/icon-ecosystem-04.png);
+  background-size: 60px;
+}
+.css-vurnku.active .ecosystem-04 {
+  background: url(./../images/about-us/icon-ecosystem-active-04.png);
+  background-size: 60px;
+}
+.ecosystem-05 {
+  background: url(./../images/about-us/icon-ecosystem-05.png);
+  background-size: 60px;
+}
+.css-vurnku.active .ecosystem-05 {
+  background: url(./../images/about-us/icon-ecosystem-active-05.png);
+  background-size: 60px;
+}
+.ecosystem-06 {
+  background: url(./../images/about-us/icon-ecosystem-06.png);
+  background-size: 60px;
+}
+.css-vurnku.active .ecosystem-06 {
+  background: url(./../images/about-us/icon-ecosystem-active-06.png);
+  background-size: 60px;
+}
+.ecosystem-07 {
+  background: url(./../images/about-us/icon-ecosystem-07.png);
+  background-size: 60px;
+}
+.css-vurnku.active .ecosystem-07 {
+  background: url(./../images/about-us/icon-ecosystem-active-07.png);
+  background-size: 60px;
+}
+.ecosystem-08 {
+  background: url(./../images/about-us/icon-ecosystem-08.png);
+  background-size: 60px;
+}
+.css-vurnku.active .ecosystem-08 {
+  background: url(./../images/about-us/icon-ecosystem-active-08.png);
+  background-size: 60px;
+}
+.ecosystem-09 {
+  background: url(./../images/about-us/icon-ecosystem-09.png);
+  background-size: 60px;
+}
+.css-vurnku.active .ecosystem-09 {
+  background: url(./../images/about-us/icon-ecosystem-active-09.png);
+  background-size: 60px;
+}
+.css-gmb0cy.active {
+  display: block;
+  box-sizing: border-box;
+  margin: 0;
+  min-width: 0;
+  display: block;
+  -webkit-transform: rotateX(
+180deg);
+  -ms-transform: rotateX(180deg);
+  transform: rotateX(
+180deg);
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 50%;
+  top: 50%;
+  margin: -200px 0 0 -200px;
+  text-align: center;
+  color: #FFFFFF;
+  padding-top: 30px;
+}
+@media screen and (max-width: 480px) {
+  .css-gmb0cy.active {
+    width: 280px;
+    height: 280px;
+    margin: -66px 0 0 -136px;
+  }
+  .css-1q6q1lb {
+    font-size: 14px;
+  }
 }

@@ -1078,6 +1078,7 @@
   right: 0;
   top: 120px;
   list-style: none;
+  display: block;
 }
 
 .css-1nopp9n .slick-dots>li {

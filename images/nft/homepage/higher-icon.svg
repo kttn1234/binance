@@ -1,0 +1,14 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M13.3335 27.4999L16.6668 30.8333L20.0002 27.4999L16.6668 24.1666L13.3335 27.4999Z" fill="#E6E8EA"/>
+<path d="M23.3335 73.3333H25.8335V70.8333H23.3335V73.3333Z" fill="#E6E8EA"/>
+<path d="M52.9165 46.6667L54.1665 45.4167L52.9165 44.1667L51.6665 45.4167L52.9165 46.6667Z" fill="#E6E8EA"/>
+<rect x="6.6665" y="13.3333" width="50" height="3.33333" fill="#E6E8EA"/>
+<rect x="6.6665" y="38.3333" width="50" height="3.33333" fill="#E6E8EA"/>
+<rect x="6.6665" y="63.3333" width="66.6667" height="3.33333" fill="#E6E8EA"/>
+<path d="M31.6665 38.3334H48.3332V54.1667L31.6665 54.1667V38.3334Z" fill="#FCD535"/>
+<rect x="31.6665" y="54.1667" width="16.6667" height="12.5" fill="#EAECEF"/>
+<rect x="6.6665" y="58.3333" width="16.6667" height="8.33333" fill="#EAECEF"/>
+<rect width="16.6667" height="8.33333" transform="matrix(1 0 0 -1 6.6665 58.3333)" fill="#FCD535"/>
+<path d="M56.6665 13.3333H73.3332V35.8333L56.6665 35.8333V13.3333Z" fill="#FCD535"/>
+<rect x="56.6665" y="35.8333" width="16.6667" height="30.8333" fill="#EAECEF"/>
+</svg>

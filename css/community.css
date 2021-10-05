@@ -1,4 +1,8 @@
 @charset "UTF-8";
+#wapper {
+  width: auto;
+  height: auto;
+}
 /* 13qwv1l */
 .css-1mf1i98 {
   background: url(../images/about-us/community.jpg) center center;
@@ -1032,6 +1036,7 @@
   padding-bottom: 10px;
   line-height: 1;
 }
+
 .css-1w2yls6 {
   box-sizing: border-box;
   margin: 0px;
@@ -1044,6 +1049,7 @@
   padding-bottom: 10px;
   line-height: 1;
 }
+
 .css-1h5rz51 {
   box-sizing: border-box;
   margin: 0px;
@@ -1122,7 +1128,7 @@
     margin-left: 25%;
   }
 }
-@media only screen and (min-width: 768px) and (max-width: 1023px)  { 
+@media only screen and (min-width: 767px) and (max-width: 1023px)  { 
   .css-kxnx87 .css-jqp1q1 {
     width: 37.5%;
   }
@@ -1133,7 +1139,7 @@
     width: 33.33%;
   }
 }
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 767px) {
   .css-14v7lop {
     max-width: 1080px;
     padding: 0 20px;
@@ -1146,7 +1152,7 @@
     margin: 0 auto;
   }
 }
-@media screen and (max-width:767px) {
+@media screen and (max-width:766px) {
   .css-14v7lop {
     padding: 80px 20px;
     height: auto;
@@ -1220,3 +1226,143 @@
     padding-left: 10px
   }
 }
+.css-1tsl0ue {
+  display: block;
+}
+.css-5eg4tl .css-1tsl0ue i {
+  width: 50px;
+  height: 50px;
+  background-size: 50px;
+  display: inline-block;
+}
+.icon-telegram-01 {
+  background-image: url(./../images/community/icon-telegram-01-off.png);
+}
+.css-1tsl0ue:hover .icon-telegram-01 {
+  background-image: url(./../images/community/icon-telegram-01-on.png);
+}
+
+.icon-facebook-01 {
+  background-image: url(./../images/community/icon-facebook-01-off.png);
+}
+.css-1tsl0ue:hover .icon-facebook-01 {
+  background-image: url(./../images/community/icon-facebook-01-on.png);
+}
+.icon-facebook-01 {
+  background-image: url(./../images/community/icon-facebook-01-off.png);
+}
+.css-1tsl0ue:hover .icon-facebook-01 {
+  background-image: url(./../images/community/icon-facebook-01-on.png);
+}
+.icon-twitter-01 {
+  background-image: url(./../images/community/icon-twitter-01-off.png);
+}
+.css-1tsl0ue:hover .icon-twitter-01 {
+  background-image: url(./../images/community/icon-twitter-01-on.png);
+}
+.icon-reddit-01 {
+  background-image: url(./../images/community/icon-reddit-01-off.png);
+}
+.css-1tsl0ue:hover .icon-reddit-01 {
+  background-image: url(./../images/community/icon-reddit-01-on.png);
+}
+.icon-weibo-01 {
+  background-image: url(./../images/community/icon-weibo-01-off.png);
+}
+.css-1tsl0ue:hover .icon-weibo-01 {
+  background-image: url(./../images/community/icon-weibo-01-on.png);
+}
+.icon-inkedIn-01 {
+  background-image: url(./../images/community/icon-inkedIn-01-off.png);
+}
+.css-1tsl0ue:hover .icon-inkedIn-01 {
+  background-image: url(./../images/community/icon-inkedIn-01-on.png);
+}
+.icon-instagram-01 {
+  background-image: url(./../images/community/icon-instagram-01-off.png);
+}
+
+.css-1tsl0ue:hover .icon-instagram-01 {
+  background-image: url(./../images/community/icon-instagram-01-on.png);
+}
+.icon-vk-01 {
+  background-image: url(./../images/community/icon-vk-01-off.png);
+}
+.css-1tsl0ue:hover .icon-vk-01 {
+  background-image: url(./../images/community/icon-vk-01-on.png);
+}
+.css-5qy9c0 a {
+  display: block;
+}
+.icon-copy {
+  background-image: url(./../images/community/icon-copy-01-off.png);
+  width: 16px;
+  height: 16px;
+  background-size: 16px;
+  display: inline-block;
+}
+.css-5qy9c0 a:hover .icon-copy {
+  background-image: url(./../images/community/icon-copy-01-on.png);
+}
+.icon-share {
+  background-image: url(./../images/community/icon-share-01-off.png);
+  width: 16px;
+  height: 16px;
+  background-size: 16px;
+  display: inline-block;
+}
+.css-5qy9c0 a:hover .icon-share {
+  background-image: url(./../images/community/icon-share-01-on.png);
+}
+.css-1x63rjk i {
+  width: 24px;
+  height: 24px;
+  background-size: 24px;
+  display: inline-block;
+}
+.icon-facebook-02 {
+  background-image: url(./../images/community/icon-facebook-02-off.png);
+ 
+}
+.css-1x63rjk:hover .icon-facebook-02 {
+  background-image: url(./../images/community/icon-facebook-02-on.png);
+}
+.icon-twitter-02 {
+  background-image: url(./../images/community/icon-twitter-02-off.png);
+  width: 24px;
+  height: 24px;
+  background-size: 24px;
+  display: inline-block;
+}
+.css-1x63rjk:hover .icon-twitter-02 {
+  background-image: url(./../images/community/icon-twitter-02-on.png);
+}
+.icon-inkedIn-02 {
+  background-image: url(./../images/community/icon-inkedIn-02-off.png);
+  width: 24px;
+  height: 24px;
+  background-size: 24px;
+  display: inline-block;
+}
+.css-1x63rjk:hover .icon-inkedIn-02 {
+  background-image: url(./../images/community/icon-inkedIn-02-on.png);
+}
+.icon-weibo-02 {
+  background-image: url(./../images/community/icon-weibo-02-off.png);
+  width: 24px;
+  height: 24px;
+  background-size: 24px;
+  display: inline-block;
+}
+.css-1x63rjk:hover .icon-weibo-02 {
+  background-image: url(./../images/community/icon-weibo-02-on.png);
+}
+
+
+.icon-widget {
+  background-image: url(./../images/community/icon-widget-01-off.png);
+}
+.css-1x63rjk:hover .icon-widget {
+  background-image: url(./../images/community/icon-widget-01-on.png);
+}
+
